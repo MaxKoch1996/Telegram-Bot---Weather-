@@ -1,4 +1,4 @@
 from config import open_weather_token
 
 # Составляем GET запрос к API Openweather для получения данных о погоде
-# Устонавливаем библиотеку Requests $ pip install requests
+# Устанавливаем библиотеку Requests $ pip install requests
